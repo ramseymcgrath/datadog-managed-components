@@ -1,0 +1,7 @@
+{
+  "name": "Datadog Metrics",
+  "namespace": "datadog-metrics",
+  "description": "A managed component for generating datadog metrics",
+  "icon": "assets/icon.svg",
+  "permissions": {}
+}
